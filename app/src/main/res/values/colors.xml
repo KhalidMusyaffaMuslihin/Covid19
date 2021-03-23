@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2fdf84</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="orange">#D84315</color>
+    <color name="peach">#FF6E40</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#D50000</color>
+    <color name="lime">#F4FF81</color>
+    <color name="tosca">#00BFA5</color>
+    <color name="light_tosca">#1DE986</color>
+    <color name="white">@android:color/white</color>
+    <color name="dkGrey">@android:color/darker_gray</color>
+
+</resources>
